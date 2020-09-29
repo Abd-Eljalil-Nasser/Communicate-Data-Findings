@@ -4,7 +4,7 @@
 
 ## Dataset
 Bay wheels is a regional public bicycle sharing system in California's San Francisco Bay Area. It is operated by Motivate in a partnership with the Metropolitan Transportation Commission and the Bay Area Air Quality Management District.Bay Wheels is the first regional and large-scale bicycle sharing system deployed in California and on the West Coast of the United States .
-[The dataset](https://www.lyft.com/bikes/bay-wheels/system-data)cotains the trips for 2019 year (i used months from 1 to 12 csv files wich each file named 2019(month number).csv). 
+[The dataset](https://www.lyft.com/bikes/bay-wheels/system-data) cotains the trips for 2019 year (i used months from 1 to 12 csv files wich each file named 2019(month number).csv). 
 Each trip is anonymized and includes:
 Trip Duration (seconds)
 Start Time and Date
