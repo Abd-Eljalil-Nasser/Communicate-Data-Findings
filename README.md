@@ -1,5 +1,5 @@
 # [Bay wheels](https://www.lyft.com/bikes/bay-wheels) Data exploration
-## by (Abd ALJalil Nasser)
+## by (Abd AL Jalil Nasser)
 
 
 ## Dataset
